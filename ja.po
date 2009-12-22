@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2009 IWAI, Masaharu
+# This file is distributed under the same license as the PACKAGE package.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-03 12:14+0900\n"
+"PO-Revision-Date: 2009-12-22 09:27+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
+"Language-Team: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: index.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: index.php:19
+msgid "F jS, Y"
+msgstr "Y年n月j日"
+
+#: index.php:20
+#, php-format
+msgid "Categories: %s."
+msgstr "カテゴリ: %s"
+
+#: index.php:21
+msgid "Tags: "
+msgstr "タグ: "
+
+#: index.php:24
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:26
+msgid "Edit"
+msgstr "編集"
+
+#: index.php:26
+msgid "No Comments &#187;"
+msgstr "コメントなし &#187;"
+
+#: index.php:26
+msgid "1 Comment &#187;"
+msgstr "1個のコメント &#187;"
+
+#: index.php:26
+msgid "% Comments &#187;"
+msgstr "% 個のコメント &#187;"
+
+#: index.php:26
+msgid "Comments Closed"
+msgstr "コメント期間終了"
+
+#: index.php:31
+msgid "Not Found"
+msgstr "エントリーが存在しません"
+
+#~ msgid "Posted in %s"
+#~ msgstr "%sに投稿"

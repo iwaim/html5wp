@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*
+Theme Name: iwaim
+Theme URI: http://iwaim.beering.be/wordpress/
+Description: HTML5
+Author: iwaim
+Author URI: http://iwaim.beering.be/
+Version: 1.0
+Tags: html5
+*/
+
+a img {
+    border: 0px;
+}
+
+ul.bookmarks, ul.bookmarks li, ul.bookmarks li script, ul.bookmarks li div{
+    display: inline;
+}
