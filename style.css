@@ -9,10 +9,34 @@ Version: 1.0
 Tags: html5
 */
 
+header, article, footer, article, aside, time ,nav { display: block; }
+
 a img {
     border: 0px;
 }
 
 ul.bookmarks, ul.bookmarks li, ul.bookmarks li script, ul.bookmarks li div{
     display: inline;
+}
+
+body{
+      background-color: #ffffff;
+      color: #000000;
+      margin: 3em 3em 3em 3em;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+article.post {
+    border: 2px solid #cccccc;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    margin-bottom: 1em;
+    padding: 1em;
+    box-shadow: 5px 5px 3px #666;
+    -moz-box-shadow: 5px 5px 3px #666;
+    -webkit-box-shadow:5px 5px 3px #666;
 }
